@@ -1,3 +1,5 @@
+Figured out how to use a basic Flask application with python, html, and CSS.
+
 # Setup Instructions
 
 ## Mac
